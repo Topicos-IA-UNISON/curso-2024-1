@@ -7,10 +7,6 @@ hero_darken: true
 show_sidebar: false
 ---
 
-Hola, soy [Julio Waissman
-Vilanova](http://mat.uson.mx/~juliowaissman/) y espero que este curso
-sea muy provechoso para todos nosotros, que aprendamos muchas cosas
-nuevas al tiempo que vamos desarrollando proyectos.
 
 Este curso forma parte del eje de integración de la curricula de la
 [Licenciatura en Ciencias de la Computación](http://cc.mat.uson.mx) de
@@ -18,14 +14,13 @@ la [Universidad de Sonora](http://www.uson.mx). Los datos del curso
 son:
 
 | Profesor   | Julio Waissman Vilanova                                              |
-| Horarios   | Lunes de 16:00 a 20:00 hrs. y jueves de 16:00 a 17:00 hrs            |
-| Lugar      | Aula 202 y ocasionalmente en la sala de seminarios del edificio 3K-4 |
+| Horarios   | Lunes, martes y miércoles de 13:00 a 14:00 hrs                       |
+| Lugar      | Aula 203 del edificio 3K-4 |
 
 Este curso se basa en una estrategia didáctica de aprendizaje
-orientada a proyectos, inclusiva y democratica. Como curso
-democratico, vamos a iniciar por decidir entre todos los temas a desarrollar
-durante el curso, el lenguaje de programación que vamos a utilizar, y la forma 
-en que vamos a evaluarnos, a partir de
+orientada a proyectos, inclusiva y democrática. Como curso
+democrático, vamos a iniciar por decidir entre todos los temas a desarrollar
+durante el curso y la forma en que vamos a evaluarnos, a partir de
 un consenso entre los participantes (estudiantes y profesor).
 
 
@@ -108,10 +103,3 @@ mínimo, por cuatro principios:
 
 Espero que esta sea una experiencia enriquecedora para todos y funcione 
 en un contexto tan pequeño como es el curso.
-
-## Apoyo para la enseñanza
-
-Para este curso nos estaremos apoyando en [DataCamp](https://app.datacamp.com/learn), que es un espacio de aprendizaje enfocado a la Ciencia de Datos, con muchisimos cursos para aprender las técnicas más importantes en python, R y SQL entre otros.
-
-![](https://waffles.datacamp.com/logo/logo-regular.svg)
-

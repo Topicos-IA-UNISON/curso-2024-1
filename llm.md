@@ -1,22 +1,21 @@
 ---
-title: Tópico a especificar 
+title: Grandes modelos de lenguaje 
 subtitle: Tópicos Avanzados en Inteligencia Artificial 
 layout: page
-hero_image: /curso-2021-2/img/rectoria2_muse.jpg
+hero_image: /curso-2021-2/img/banner-poema.jpg
 hero_darken: true
 show_sidebar: false
 ---
 
-# Tema
+# Temario
 
-Especificar el tema
+
 
 ## Material para el aprendizaje
 
 
-## Actividades de aprendizaje
+## Laboratorios
 
 
-## Proyecto 
 
 

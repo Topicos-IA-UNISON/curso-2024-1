@@ -1,11 +1,8 @@
 - name: Tópicos
   link: /#
   dropdown:
-    - name: Frameworks
-      link: /lang/
-    - name: Sistemas de recomendación 
-      link: /tema1/
-    - name: Tema 2
-      link: /tema2/
-    - name: Tema 3
-      link: /tema3/
+    - name: Aprendizaje por refuerzo
+      link: /rl/
+    - name: Grandes modelos de lenguaje 
+      link: /llm/
+  
