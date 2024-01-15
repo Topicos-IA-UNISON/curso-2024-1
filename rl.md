@@ -17,7 +17,7 @@ show_sidebar: false
   
 - El curso de [Deep Reinforcement Learning](https://huggingface.co/learn/deep-rl-course/unit0/introduction) de [Hugging Face](https://huggingface.co) muy reciente, para aprender a usar el ecosistema de HF.
 
-- Curso [Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600) (gratuito) de [Udacity](https://www.udacity.com), viejito pero bonito.
+- Curso [Reinforcement Learning](https://www.udacity.com/catalog/all/free/artificial%20intelligence/any-skill/any-difficulty/any-duration/any-type/most-popular/page-1) (gratuito) de [Udacity](https://www.udacity.com), viejito pero bonito.
 
 - La [Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning) de [Coursera](https://www.coursera.org). La Universidad de Alberta es pionera en aprendizaje por refuerzo en el mundo. La espacialización tiene un costo alto, pero los cursos son auditables en Coursera.
 
