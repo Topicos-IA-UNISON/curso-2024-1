@@ -23,6 +23,7 @@ show_sidebar: false
 
 ## Actividades de aprendizaje
 
+- [Una libretita de jupyter con un ejemplo de programación dinámica que hacemos entre todos](https://github.com/Topicos-IA-UNISON/curso-2024-1/blob/main/jugador.ipynb)
 
 
 ## Proyecto
