@@ -28,6 +28,8 @@ show_sidebar: false
 
 - La [Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning) de [Coursera](https://www.coursera.org). La Universidad de Alberta es pionera en aprendizaje por refuerzo en el mundo. La espacialización tiene un costo alto, pero los cursos son auditables en Coursera.
 
+- Una serie de videos de DeepMind en Youtube, [Deep Learning Lecture Series 2021](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm).
+
 ## Actividades de aprendizaje
 
 - [Una libretita de jupyter con un ejemplo de programación dinámica que hacemos entre todos](https://github.com/Topicos-IA-UNISON/curso-2024-1/blob/main/jugador.ipynb)
@@ -59,3 +61,5 @@ Las fechas de entrega son las siguientes:
 Cada fecha no cumplida entonces implica una reducción de 2 puntos en la calificación final del curso. 
 
 Cabe destacar que estos criterios de evaluación se establecieron en forma democrática y votada en el salón el día 6 de febrero.
+
+Usuarios: `juliowaissman`, `EricValen`, `KevStrider`, `SyntaxTheRed`, `fazito25`, `enrique2701`, `chelseadzd`
