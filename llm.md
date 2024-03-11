@@ -9,26 +9,30 @@ show_sidebar: false
 
 # Temario
 
-A completar
+1. Modelos secuenciales tipo LSTM
+2. Aplicaciones de modelos secuenciales en PLN
+3. El mecanismo de atención
+4. Transformadores: arquitectura básica y tokenizador
+5. Ajuste fino a modelos preentrenados
+6. Grandes modelos de lenguaje (LLM)
+7. *prompt engineering* y *langchain* para uso de LLM
+8. Ajuste fino de LLM con PERF
 
 ## Material para el aprendizaje
 
 ### Presentaciones
 
-- [Introducción a los modelos secuenciales y celdas LSTM](https://www.github.com/topicos-ia-unison.github.io/curso-2024-1/blob/main/slides/pln-capitulo-2.pptx)
-
-- [*Name-entity Recognition* (NER) con LSTM](https://www.github.com/topicos-ia-unison.github.io/curso-2024-1/blob/main/slides/NER-LSTM.pdf)
+- [Introducción a los modelos secuenciales y celdas LSTM](https://github.com/Topicos-IA-UNISON/curso-2024-1/blob/main/slides/pln-capitulo-2.pptx)  
 
 - [Embeddings from Language Models (ELMo)](http://hanj.cs.illinois.edu/cs512/slides-students2020/Elmo.pdf)
 
+- [El mecanismo de atención y traductores con LSTM](https://github.com/Topicos-IA-UNISON/curso-2024-1/blob/main/slides/atencion-slides.pdf)
 
-- [El mecanismo de atención y traductores con LSTM](https://www.github.com/topicos-ia-unison.github.io/curso-2024-1/blob/main/slides/atencion-slides.pdf)
+- [El modelo de transformadores](https://github.com/Topicos-IA-UNISON/curso-2024-1/blob/main/slides/transformers.pdf)
 
-- [El modelo de transformadores](https://www.github.com/topicos-ia-unison.github.io/curso-2024-1/blob/main/slides/transformers.pdf)
+- [Transfer learning y modelos preentrenados](https://github.com/Topicos-IA-UNISON/curso-2024-1/blob/main/slides/transfer.pdf)
 
-- [Transfer learning y modelos preentrenados](https://www.github.com/topicos-ia-unison.github.io/curso-2024-1/blob/main/slides/transfer.pdf)
-
-- [Tareas con secuencias largas](https://www.github.com/topicos-ia-unison.github.io/curso-2024-1/blob/main/slides/secuencias-largas.pdf)
+- [Tareas con secuencias largas](https://github.com/Topicos-IA-UNISON/curso-2024-1/blob/main/slides/secuencias-largas.pdf)
 
 
 ### Explicaciones gráficas
