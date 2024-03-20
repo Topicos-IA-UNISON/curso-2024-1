@@ -69,16 +69,16 @@ show_sidebar: false
 
 ### LSTM
 
-- [El problema del desvanecimiento del gradiente](https://www.github.com/topicos-ia-unison.github.io/curso-2024-1/blob/main/labs/RNN/vanish-grad.ipynb)
+- [El problema del desvanecimiento del gradiente](https://github.com/Topicos-IA-UNISON/curso-2024-1//blob/main/labs/RNN/vanish-grad.ipynb)
 
-- [Una RNN a pie, solo para entender la arquitectura](https://www.github.com/topicos-ia-unison.github.io/curso-2024-1/blob/main/labs/RNN/Estados-ocultos.ipynb)
+- [Una RNN a pie, solo para entender la arquitectura](https://github.com/Topicos-IA-UNISON/curso-2024-1//blob/main/labs/RNN/Estados-ocultos.ipynb)
 
-- [Análisis de sentimiento con LSTM](https://www.github.com/topicos-ia-unison.github.io/curso-2024-1/blob/main/labs/RNN/LSTM-IMdb.ipynb)
+- [Análisis de sentimiento con LSTM](https://github.com/Topicos-IA-UNISON/curso-2024-1/blob/main/labs/RNN/LSTM-IMdb.ipynb)
 
 
 ### El mecanismo de atención
 
-- [El mecanismo de atención a pie, solo para entender](https://www.github.com/topicos-ia-unison.github.io/curso-2024-1/blob/main/labs/atencion/atencion.ipynb)
+- [El mecanismo de atención a pie, solo para entender](https://github.com/Topicos-IA-UNISON/curso-2024-1/blob/main/labs/atencion/atencion.ipynb)
   
 - [Modelo *seq-to-seq* con LSTM y mecanismo de atención](https://www.tensorflow.org/text/tutorials/nmt_with_attention?hl=en) de los ejemplos de uso de la documentación de Tensor Flow
 
