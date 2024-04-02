@@ -69,9 +69,9 @@ show_sidebar: false
 
 ### LSTM
 
-- [El problema del desvanecimiento del gradiente](https://github.com/Topicos-IA-UNISON/curso-2024-1//blob/main/labs/RNN/vanish-grad.ipynb)
-
 - [Una RNN a pie, solo para entender la arquitectura](https://github.com/Topicos-IA-UNISON/curso-2024-1//blob/main/labs/RNN/Estados-ocultos.ipynb)
+
+- [El problema del desvanecimiento del gradiente](https://github.com/Topicos-IA-UNISON/curso-2024-1//blob/main/labs/RNN/vanish-grad.ipynb)
 
 - [Análisis de sentimiento con LSTM](https://github.com/Topicos-IA-UNISON/curso-2024-1/blob/main/labs/RNN/LSTM-IMdb.ipynb)
 
