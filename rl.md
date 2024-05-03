@@ -7,7 +7,7 @@ hero_darken: true
 show_sidebar: false
 ---
 
-# Temario
+## 1. Temario
 
 1. Introducción al aprendizaje por refuerzo
 2. Método de aprendizaje *Q-Learning* tabular
@@ -18,7 +18,7 @@ show_sidebar: false
 7. Introducción al aprendizaje por refuerzo multiagente
 8. Método *Proximal Policy Optimization*
 
-## Material para el aprendizaje
+## 2. Material para el aprendizaje
 
 - EL libro [Reinforcement Learning: An Introduction](http://www.incompleteideas.net/book/the-book.html) de [R. Sutton](http://www.incompleteideas.net/index.html) y [A. Barto](https://people.cs.umass.edu/~barto/), todo un clásico en el área.
   
@@ -30,20 +30,15 @@ show_sidebar: false
 
 - Una serie de videos de DeepMind en Youtube, [Deep Learning Lecture Series 2021](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm).
 
-## Actividades de aprendizaje
 
 - [Una libretita de jupyter con un ejemplo de programación dinámica que hacemos entre todos](https://github.com/Topicos-IA-UNISON/curso-2024-1/blob/main/jugador.ipynb)
 
 
-## Evaluación 
+## 3. Evaluación 
 
-El tópico de aprendizaje por refuerzo serán 50/100 puntos de la calificación total de la materia, los cuales se dividirán de la siguiente manera:
-
-- 30 puntos por entregar, antes que acabe el semestre, el certificado de completar el [curso de Hugging Faxce](https://huggingface.co/learn/deep-rl-course/unit0/introduction)  
+Entregar, antes que acabe el semestre, el certificado de acreditación del [curso de Hugging Face de aprendizaje por refuerzo profundo](https://huggingface.co/learn/deep-rl-course/unit0/introduction)  
   
-- 20 puntos por entregar a tiempo, de acuerdo a un calendario establecido por todos, los retos que deben de subirse al [dashboard de resultados](https://huggingface.co/spaces/huggingface-projects/Deep-Reinforcement-Learning-Leaderboard) con una calificación igual o superior a la que se solicita para acreditar la unidad en el [curso de Hugging Faxce](https://huggingface.co/learn/deep-rl-course) en el apartado de *Hands-on* de cada unidad.
-
-Las fechas de entrega son las siguientes:
+Las fechas de entrega indicativas son las siguientes:
 
 | Fecha  | Unidad | Modelos                      | Puntaje mínimo |
 | -----  | ------ | ---------------------------  | -------------- |
@@ -58,8 +53,3 @@ Las fechas de entrega son las siguientes:
 | 20 mar |   8    | LunarLander-v2               | NA             |
 | 27 mar |   8bis | doom_health_gathering_supreme | 5             |
 
-Cada fecha no cumplida entonces implica una reducción de 2 puntos en la calificación final del curso. 
-
-Cabe destacar que estos criterios de evaluación se establecieron en forma democrática y votada en el salón el día 6 de febrero.
-
-Usuarios: `juliowaissman`, `EricValen`, `KevStrider`, `SyntaxTheRed`, `fazito25`, `enrique2701`, `chelseadzd`

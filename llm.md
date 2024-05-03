@@ -7,7 +7,7 @@ hero_darken: true
 show_sidebar: false
 ---
 
-## Temario
+## 1. Temario
 
 1. Modelos secuenciales tipo LSTM
 2. Aplicaciones de modelos secuenciales en PLN
@@ -18,9 +18,9 @@ show_sidebar: false
 7. *prompt engineering* y *langchain* para uso de LLM
 8. Ajuste fino de LLM con PERF
 
-## Actividades de aprendizaje
+## 2. Actividades de aprendizaje
 
-### Realizar las libretas siguientes:
+### 2.1. Realizar las libretas siguientes:
 
 1. [Una RNN a pie, solo para entender la arquitectura](https://github.com/Topicos-IA-UNISON/curso-2024-1//blob/main/labs/RNN/Estados-ocultos.ipynb)
 
@@ -39,7 +39,7 @@ show_sidebar: false
 
 Subir en forma individual las libretas resueltas (o ejecutadas, algunas son solo para ejecutar y ver como funciona) en un repositorio de *GitHub*. 
 
-### Realizar los siguientes cursos cortos de una hora cada uno (entregan diploma)
+### 2.2. Realizar los siguientes cursos cortos de una hora cada uno (entregan diploma)
 
 1. [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/), o [Prompt Engineering with Llama 2 & 3](https://www.deeplearning.ai/short-courses/prompt-engineering-with-llama-2/), o [Getting Started with Mistral](https://www.deeplearning.ai/short-courses/getting-started-with-mistral/)
 
@@ -56,9 +56,9 @@ Subir en forma individual las libretas resueltas (o ejecutadas, algunas son solo
 7. [Red Teaming LLM Applications](https://www.deeplearning.ai/short-courses/red-teaming-llm-applications/)
 
 
-## Material para el aprendizaje
+## 3. Material para el aprendizaje
 
-### Presentaciones
+### 3.1. Presentaciones
 
 - [Introducción a los modelos secuenciales y celdas LSTM](https://github.com/Topicos-IA-UNISON/curso-2024-1/blob/main/slides/pln-capitulo-2.pptx)  
 
@@ -73,7 +73,7 @@ Subir en forma individual las libretas resueltas (o ejecutadas, algunas son solo
 - [Tareas con secuencias largas](https://github.com/Topicos-IA-UNISON/curso-2024-1/blob/main/slides/secuencias-largas.pdf)
 
 
-### Explicaciones gráficas
+### 3.2 Explicaciones gráficas
 
 - [The Unreasonable Effectiveness of Recurrent Neural Networks (Karpathy, 2015)](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
@@ -104,7 +104,7 @@ Subir en forma individual las libretas resueltas (o ejecutadas, algunas son solo
 
 
 
-### Artículos seminales
+### 3.3 Artículos seminales
 
 - [Long Short-Term Memory (Hochreiter y Schmidhuber, 1997)](https://deeplearning.cs.cmu.edu/F23/document/readings/LSTM.pdf)
 
@@ -125,7 +125,7 @@ Subir en forma individual las libretas resueltas (o ejecutadas, algunas son solo
 - [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity (Fedus et al, 2022)](https://arxiv.org/pdf/2101.03961.pdf)
 
 
-### Sitios y herramientas interesantes
+### 3.4. Sitios y herramientas interesantes
 
 - La de base si estás en tensorflow: [*Keras*](https://keras.io)
 
@@ -139,7 +139,7 @@ Subir en forma individual las libretas resueltas (o ejecutadas, algunas son solo
 
 - [LagChain: Get your LLM application from prototype to production](https://www.langchain.com), su [documentación](https://python.langchain.com/docs/get_started) y si [repositorio de GitHub](https://github.com/langchain-ai/langchain)
 
-### Filosofía, sociedad, implicaciones éticas y sociales
+### 3.5. Filosofía, sociedad, implicaciones éticas y sociales
 
 - [Language models and linguistic theories beyond words](https://www.nature.com/articles/s42256-023-00703-8)
 
