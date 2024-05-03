@@ -7,7 +7,7 @@ hero_darken: true
 show_sidebar: false
 ---
 
-# Temario
+## Temario
 
 1. Modelos secuenciales tipo LSTM
 2. Aplicaciones de modelos secuenciales en PLN
@@ -17,6 +17,44 @@ show_sidebar: false
 6. Grandes modelos de lenguaje (LLM)
 7. *prompt engineering* y *langchain* para uso de LLM
 8. Ajuste fino de LLM con PERF
+
+## Actividades de aprendizaje
+
+### Realizar las libretas siguientes:
+
+1. [Una RNN a pie, solo para entender la arquitectura](https://github.com/Topicos-IA-UNISON/curso-2024-1//blob/main/labs/RNN/Estados-ocultos.ipynb)
+
+2. [El problema del desvanecimiento del gradiente](https://github.com/Topicos-IA-UNISON/curso-2024-1//blob/main/labs/RNN/vanish-grad.ipynb)
+
+3. [Análisis de sentimiento con LSTM](https://github.com/Topicos-IA-UNISON/curso-2024-1/blob/main/labs/RNN/LSTM-IMdb.ipynb)
+
+4. [El mecanismo de atención a pie, solo para entender](https://github.com/Topicos-IA-UNISON/curso-2024-1/blob/main/labs/atencion/atencion.ipynb)
+  
+5. [Modelo *seq-to-seq* con LSTM y mecanismo de atención](https://www.tensorflow.org/text/tutorials/nmt_with_attention?hl=en) de los ejemplos de uso de la documentación de Tensor Flow
+
+6. [Modelo *seq-to-seq* con transformadores, haciendo los transformadores mas o menos a pie](https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/nlp/ipynb/neural_machine_translation_with_transformer.ipynb) de la guías de ejemplos de la documentación de Keras
+
+
+7. [Clasificación de textos con transformers](https://colab.research.google.com/github/topicos-ia-unison.github.io/curso-2024-1/blob/main/labs/atencion/transfer-hf.ipynb). Modificación de [esta libreta que ya no funciona](https://colab.research.google.com/github/somosnlp/nlp-de-cero-a-cien/blob/main/4_transformers_aprendizaje_por_transferencia/clasificacion_de_textos.ipynb), del curso [Curso NLP de 0 a 100](https://somosnlp.org/recursos/curso-de-nlp-de-0-a-100) de la [Sesión 4: Transformers y Aprendizaje por Transferencia](https://somosnlp.org/nlp-de-cero-a-cien/sesion-04)
+
+Subir en forma individual las libretas resueltas (o ejecutadas, algunas son solo para ejecutar y ver como funciona) en un repositorio de *GitHub*. 
+
+### Realizar los siguientes cursos cortos de una hora cada uno (entregan diploma)
+
+1. [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/), o [Prompt Engineering with Llama 2 & 3](https://www.deeplearning.ai/short-courses/prompt-engineering-with-llama-2/), o [Getting Started with Mistral](https://www.deeplearning.ai/short-courses/getting-started-with-mistral/)
+
+2. [LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
+
+3. [LangChain: Chat with Your Data](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/)
+
+4. [Functions, Tools and Agents with LangChain](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/)
+
+5. [Vector Databases: from Embeddings to Applications](https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/)
+
+6.  [Building and Evaluating Advanced RAG Applications](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/)
+
+7. [Red Teaming LLM Applications](https://www.deeplearning.ai/short-courses/red-teaming-llm-applications/)
+
 
 ## Material para el aprendizaje
 
@@ -65,36 +103,8 @@ show_sidebar: false
 - [LMM Visualization (Bycroft, 2023)](https://bbycroft.net/llm)
 
 
-## Laboratorios
 
-### LSTM
-
-- [Una RNN a pie, solo para entender la arquitectura](https://github.com/Topicos-IA-UNISON/curso-2024-1//blob/main/labs/RNN/Estados-ocultos.ipynb)
-
-- [El problema del desvanecimiento del gradiente](https://github.com/Topicos-IA-UNISON/curso-2024-1//blob/main/labs/RNN/vanish-grad.ipynb)
-
-- [Análisis de sentimiento con LSTM](https://github.com/Topicos-IA-UNISON/curso-2024-1/blob/main/labs/RNN/LSTM-IMdb.ipynb)
-
-
-### El mecanismo de atención
-
-- [El mecanismo de atención a pie, solo para entender](https://github.com/Topicos-IA-UNISON/curso-2024-1/blob/main/labs/atencion/atencion.ipynb)
-  
-- [Modelo *seq-to-seq* con LSTM y mecanismo de atención](https://www.tensorflow.org/text/tutorials/nmt_with_attention?hl=en) de los ejemplos de uso de la documentación de Tensor Flow
-
-
-- [Modelo *seq-to-seq* con transformadores, haciendo los transformadores mas o menos a pie](https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/nlp/ipynb/neural_machine_translation_with_transformer.ipynb) de la guías de ejemplos de la documentación de Keras
-
-
-#### Usando modelos preentrenados
-
-
-- [A Visual Notebook to Using BERT for the First Tme](https://colab.research.google.com/github/jalammar/jalammar.github.io/blob/master/notebooks/bert/A_Visual_Notebook_to_Using_BERT_for_the_First_Time.ipynb). libreta de [Alammar](http://jalammar.github.io) de la entrada de su blog [A Visual Guide to Using BERT for the First Time](http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/)
-
-- [Clasificación de textos con transformers](https://colab.research.google.com/github/topicos-ia-unison.github.io/curso-2024-1/blob/main/labs/atencion/transfer-hf.ipynb). Modificación de [esta libreta que ya no funciona](https://colab.research.google.com/github/somosnlp/nlp-de-cero-a-cien/blob/main/4_transformers_aprendizaje_por_transferencia/clasificacion_de_textos.ipynb), del curso [Curso NLP de 0 a 100](https://somosnlp.org/recursos/curso-de-nlp-de-0-a-100) de la [Sesión 4: Transformers y Aprendizaje por Transferencia](https://somosnlp.org/nlp-de-cero-a-cien/sesion-04)
-
-
-## Artículos seminales
+### Artículos seminales
 
 - [Long Short-Term Memory (Hochreiter y Schmidhuber, 1997)](https://deeplearning.cs.cmu.edu/F23/document/readings/LSTM.pdf)
 
@@ -115,7 +125,7 @@ show_sidebar: false
 - [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity (Fedus et al, 2022)](https://arxiv.org/pdf/2101.03961.pdf)
 
 
-## Sitios y herramientas interesantes
+### Sitios y herramientas interesantes
 
 - La de base si estás en tensorflow: [*Keras*](https://keras.io)
 
@@ -129,7 +139,7 @@ show_sidebar: false
 
 - [LagChain: Get your LLM application from prototype to production](https://www.langchain.com), su [documentación](https://python.langchain.com/docs/get_started) y si [repositorio de GitHub](https://github.com/langchain-ai/langchain)
 
-## Filosofía, sociedad, implicaciones éticas y sociales
+### Filosofía, sociedad, implicaciones éticas y sociales
 
 - [Language models and linguistic theories beyond words](https://www.nature.com/articles/s42256-023-00703-8)
 
